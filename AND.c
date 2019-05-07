@@ -5,6 +5,6 @@ sfr P3 = 0xB0;
 void main()
 {
     P1 = 0x2C;
-	  P2 = 0x78;
-		P3 = P1 & P2;
+    P2 = 0x78;
+    P3 = P1 & P2;
 }
