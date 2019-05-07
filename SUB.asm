@@ -1,0 +1,4 @@
+MOV A, #26h
+MOV R3, #21h
+SUBB A, R3
+END
